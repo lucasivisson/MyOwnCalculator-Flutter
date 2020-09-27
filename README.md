@@ -28,9 +28,7 @@ Please contribute using [Github Flow](https://guides.github.com/introduction/flo
 <a>
  <img src='https://avatars3.githubusercontent.com/u/53708095?s=400&u=7b08c330b12ab8414fc7a3909566266b8c8dfe22&v=4' width='200px;' alt='Lucas Ivisson'/>
  <br />
- <a>
- <p>Lucas Ivisson</p> <a href='https://github.com/lucasivisson' title='Lucas Ivisson'></a>
- </a>
+ <a href="https://github.com/lucasivisson"> Lucas Ivisson </a>
  </a>
 
 ## License
