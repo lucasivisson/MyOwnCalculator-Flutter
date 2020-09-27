@@ -11,10 +11,7 @@ This project is my own calculator made using Flutter(iOS and Android).
 
 ## Screenshots
 
-<img src='/screenshots/photo1.png' width='360px;' alt='Screenshot one'>
 <img src='/screenshots/photo2.png' width='360px;' alt='Screenshot two'>
-<img src='/screenshots/photo3.png' width='360px;' alt='Screenshot three'>
-<img src='/screenshots/photo4.png' width='360px;' alt='Screenshot four'>
 
 ## Contributing
 
@@ -31,7 +28,9 @@ Please contribute using [Github Flow](https://guides.github.com/introduction/flo
 <a>
  <img src='https://avatars3.githubusercontent.com/u/53708095?s=400&u=7b08c330b12ab8414fc7a3909566266b8c8dfe22&v=4' width='200px;' alt='Lucas Ivisson'/>
  <br />
+ <a>
  <p>Lucas Ivisson</p> <a href='https://github.com/lucasivisson' title='Lucas Ivisson'></a>
+ </a>
  </a>
 
 ## License
