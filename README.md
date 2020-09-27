@@ -2,6 +2,10 @@
 
 This project is my own calculator made using Flutter(iOS and Android).
 
+## Technologies
+
+This project was done using the [Dart](https://dart.dev/guides) language and the [Flutter](https://flutter.dev/) framework.
+
 ## Getting Started
 
 1. Clone this project on your machine using "git clone https://github.com/lucasivisson/MyOwnCalculator-Flutter.git".
