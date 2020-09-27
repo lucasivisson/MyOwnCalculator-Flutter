@@ -11,10 +11,10 @@ This project is my own calculator made using Flutter(iOS and Android).
 
 ## Screenshots
 
-<img src='/screenshots/photo1.png' alt='Screenshot one'>
-<img src='/screenshots/photo2.png' alt='Screenshot two'>
-<img src='/screenshots/photo3.png' alt='Screenshot three'>
-<img src='/screenshots/photo4.png' alt='Screenshot four'>
+<img src='/screenshots/photo1.png' width='360px;' alt='Screenshot one'>
+<img src='/screenshots/photo2.png' width='360px;' alt='Screenshot two'>
+<img src='/screenshots/photo3.png' width='360px;' alt='Screenshot three'>
+<img src='/screenshots/photo4.png' width='360px;' alt='Screenshot four'>
 
 ## Contributing
 
@@ -29,9 +29,10 @@ Please contribute using [Github Flow](https://guides.github.com/introduction/flo
 ## Author
 
 <a>
- <img style = border-radius: 50%; src='https://avatars3.githubusercontent.com/u/53708095?s=400&u=7b08c330b12ab8414fc7a3909566266b8c8dfe22&v=4' width='100px;' alt='Lucas Ivisson'/>
+ <img src='https://avatars3.githubusercontent.com/u/53708095?s=400&u=7b08c330b12ab8414fc7a3909566266b8c8dfe22&v=4' width='200px;' alt='Lucas Ivisson'/>
  <br />
- <sub><b>Lucas Ivisson</b></sub></a> <a href='https://github.com/lucasivisson' title='Lucas Ivisson'></a>
+ <p>Lucas Ivisson</p> <a href='https://github.com/lucasivisson' title='Lucas Ivisson'></a>
+ </a>
 
 ## License
 
