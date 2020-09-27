@@ -33,6 +33,6 @@ Please contribute using [Github Flow](https://guides.github.com/introduction/flo
 
 ## License
 
-This project is licensed under the MIT-License.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/lucasivisson/MyOwnCalculator-Flutter/blob/master/LICENSE) file for details
 
 Feito com ❤️ por Lucas Ivisson 👋🏽
