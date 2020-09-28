@@ -9,36 +9,48 @@ class Memory {
     if (command == 'AC') {
       _allClear();
     } else if (command == '⌫') {
-      _equation = _equation.substring(0, _equation.length - 1);
-      if (_equation == '') {
-        _equation = '0';
-      }
+      _deleteEquation();
     } else if (command == '=') {
-      expression = _equation;
-      expression = expression.replaceAll('×', '*');
-      expression = expression.replaceAll('÷', '/');
-
-      try {
-        Parser p = new Parser();
-        Expression exp = p.parse(expression);
-
-        ContextModel cm = ContextModel();
-        _result = '${exp.evaluate(EvaluationType.REAL, cm)}';
-      } catch (e) {
-        _result = "Error";
-      }
+      _finalResult();
     } else {
-      if (_equation == '0') {
-        _equation = command;
-      } else {
-        _equation += command;
-      }
+      _typing(command);
     }
   }
 
   _allClear() {
     _equation = '0';
     _result = '0';
+  }
+
+  _deleteEquation() {
+    _equation = _equation.substring(0, _equation.length - 1);
+    if (_equation == '') {
+      _equation = '0';
+    }
+  }
+
+  _finalResult() {
+    expression = _equation;
+    expression = expression.replaceAll('×', '*');
+    expression = expression.replaceAll('÷', '/');
+
+    try {
+      Parser p = new Parser();
+      Expression exp = p.parse(expression);
+
+      ContextModel cm = ContextModel();
+      _result = '${exp.evaluate(EvaluationType.REAL, cm)}';
+    } catch (e) {
+      _result = "Error";
+    }
+  }
+
+  _typing(String command) {
+    if (_equation == '0') {
+      _equation = command;
+    } else {
+      _equation += command;
+    }
   }
 
   String get equation {
