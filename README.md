@@ -30,7 +30,7 @@ Please contribute using [Github Flow](https://guides.github.com/introduction/flo
 ## Author
 
 <a>
- <img src='https://avatars3.githubusercontent.com/u/53708095?s=400&u=7b08c330b12ab8414fc7a3909566266b8c8dfe22&v=4' width='200px;' alt='Lucas Ivisson'/>
+ <img src='https://avatars3.githubusercontent.com/u/53708095?s=400&u=7b08c330b12ab8414fc7a3909566266b8c8dfe22&v=4' width='200px'; height='200px' alt='Lucas Ivisson'/>
  <br />
  <a href="https://github.com/lucasivisson"> Lucas Ivisson </a>
  </a>
@@ -39,4 +39,4 @@ Please contribute using [Github Flow](https://guides.github.com/introduction/flo
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/lucasivisson/MyOwnCalculator-Flutter/blob/master/LICENSE) file for details
 
-Feito com ❤️ por Lucas Ivisson 👋🏽
+Made with ❤️ by Lucas Ivisson 👋🏽
