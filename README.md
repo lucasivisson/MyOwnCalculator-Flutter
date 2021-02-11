@@ -15,7 +15,7 @@ This project was done using the [Dart](https://dart.dev/guides) language and the
 
 ## Screenshots
 
-<img src='/screenshots/photo2.png' width='360px;' alt='Screenshot two'>
+<img src='/screenshots/photo2.png' width='360px;' alt='Screenshot'>
 
 ## Contributing
 
